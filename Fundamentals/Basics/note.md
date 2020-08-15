@@ -2,3 +2,4 @@
 - Source code into machine code: compile it, interpret it, or an combination of both.
 - Compiled languages: C, C++, and Objective-C
 - Interpreted languagues: PHP and JavaScript
+- Combination: Java, C#, and Python
