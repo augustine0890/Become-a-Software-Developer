@@ -6,8 +6,7 @@ Get an introduction to the programming skills needed for a career as a software 
 - **Explore** core languages like Python, JavaScript, and Java.
 
 1. [Programming Foundations: Fundamentals](https://github.com/augustine0890/Become-a-Software-Developer/blob/master/Fundamentals/README.md)
-1. [Programming Foundations: Fundamentals](https://github.com/augustine0890/Become-a-Software-Developer/blob/master/Databases/README.md)
-2. [Programming Foundations: Databases]
+2. [Programming Foundations: Databases](https://github.com/augustine0890/Become-a-Software-Developer/blob/master/Databases/README.md)
 3. Succeeding in Web Development: Full Stack and Front End
 4. HTML Essential Training
 5. CSS Essential Training
