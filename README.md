@@ -12,7 +12,7 @@ Get an introduction to the programming skills needed for a career as a software 
 5. CSS Essential Training
 6. JavaScript Essential Training
 7. Learning Python
-8. Learning Java
+8. [Learning Java](https://github.com/augustine0890/Become-a-Software-Developer/blob/master/Learning%20Java/README.md)
 9. Learning C#
 10. Learning SQL Programming
 11. Programming Foundations: Web Security
