@@ -20,5 +20,5 @@
 - Includes the JRE and other tools to create Java programs
 
 ### Command Line Run
-`javac HelloWorld.java`
+`javac HelloWorld.java` <br>
 `java HelloWorld`
