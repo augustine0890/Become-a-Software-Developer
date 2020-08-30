@@ -1,0 +1,9 @@
+--- hello_world.txt	2020-08-30 13:37:54.000000000 +0900
++++ hello_world_long.txt	2020-08-30 13:38:28.000000000 +0900
+@@ -1 +1,3 @@
+-Hello World
+\ No newline at end of file
++Hello World
++
++It's a wonderful day!
+\ No newline at end of file

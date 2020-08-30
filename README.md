@@ -16,3 +16,4 @@ Get an introduction to the programming skills needed for a career as a software 
 9. Learning C#
 10. Learning SQL Programming
 11. Programming Foundations: Web Security
+12. [Introduction to Git and GitHub](https://github.com/augustine0890/Become-a-Software-Developer/blob/master/Introduction%20to%20Git%20and%20GitHub/README.md)
