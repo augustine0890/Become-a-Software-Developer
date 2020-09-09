@@ -57,7 +57,7 @@ Note: it's considered good style to put all flags _before_ any filenames, so in 
 - `grep molar seasonal/autumn.csv`: print the content of all of the lines containing the word `molar` in the `seasonal/autumn.csv`
 - Invert the match to find all of the lines that don't contain the word `molar` in `seasonal/spring.csv`, and show their line numbers. Remember, it's considered good style to put all of the flags _before_ other values like filenames or the search term "molar".
 `grep -v -n molar seasonal/spring.csv`
-- Count how many lines contain the word `incisor` in `autumn.csv` and `winter.csv` combined. (Again, run a single command from your home directory.)
+- Count how many lines contain the word `incisor` in `autumn.csv` and `winter.csv` combined. (Again, run a single command from your home directory.) <br>
 `grep -c incisor seasonal/autumn.csv seasonal/winter.csv`
 
 **Why isn't it always safe to treat data as text?**
