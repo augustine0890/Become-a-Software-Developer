@@ -1,0 +1,11 @@
+### Managing Projects
+- If you're a project maintainer, it's important that you reply promptly to pull requests and don't let them stagnate.
+- It's important that you understand any changes you accept.
+- When it comes to coordinating who does what and when, a common strategy for active software projects is to use an __issue tracker__.
+- Keywords such as __closes__ or __resolves__ followed by a hashtag and the issue number will tell Git to autolink to the issue with the provided ID number.
+- Continuous integration system (CI): will build and test our code every time there's a change.
+- Once we have our code automatically built and tested, the next automation step is **continuous deployment,** which is sometimes called **continuous delivery (CD).**
+- **Pipelines**: specify the steps that need to run to get the result you want.
+- **Artifacts**: the name used to describe any files that are generated as part of the pipeline.  Artifacts can include compiled code, test results, logs, or any type of file generated as part of the pipeline.
+- Make sure the authorized entities for the test servers are not the same entities authorized to deploy on the production servers.
+- Always have a plan to recover your access in case your pipeline gets compromised.
