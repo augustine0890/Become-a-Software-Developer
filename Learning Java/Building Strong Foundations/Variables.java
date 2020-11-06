@@ -12,7 +12,7 @@ public class Variables {
 
         System.out.println(studentFristName + " " + 
             studentLastName + " has a GPA of " + studentGPA);
-        System.out.println("What do you want to update it to");
+        System.out.println("What do you want to update it to? ");
         
         Scanner input = new Scanner(System.in);
         studentGPA = input.nextDouble();
