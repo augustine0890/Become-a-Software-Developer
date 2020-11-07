@@ -1,3 +1,4 @@
+import java.text.NumberFormat.Style;
 import java.util.Scanner;
 
 public class ControlFlow {
@@ -11,5 +12,17 @@ public class ControlFlow {
         } else {
             System.out.println("Your shoe selection will make make you very happy today");
         }
+
+        boolean isOnRepeat = true;
+        while (isOnRepeat) {
+            System.out.println("Playing current song");
+            System.out.println("Would you like to take this song off of repeat? If so, answer yes");
+            String userInput = scanner.next();
+
+            if (userInput.equals("yes")) {
+                isOnRepeat = false;
+            }
+        }
+        System.out.println("Playing next song");
     }
 }
