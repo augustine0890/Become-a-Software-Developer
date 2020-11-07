@@ -21,6 +21,7 @@ public class ControlFlow {
 
             if (userInput.equals("yes")) {
                 isOnRepeat = false;
+                break;
             }
         }
         System.out.println("Playing next song");
