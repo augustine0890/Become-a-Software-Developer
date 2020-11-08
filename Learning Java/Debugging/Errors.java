@@ -20,6 +20,9 @@ public class Errors {
             System.out.println("That's invalid. Please input the height of the triangle (in inches).");
             height = input.nextDouble();
         }
+
+        double area = (base * height) / 2;
+        System.out.println("The area is " + area);
     }
     
 }
