@@ -11,5 +11,9 @@ public class Main {
         System.out.println("The area of triangle B: " + triangleBArea);
         System.out.println("Number of sides: " + triangleB.numOfSides);
 
+        Student studentA = new Student("Tom", "Hank", 2018, 3.2, "Art");
+        Student studentB = new Student("Augustine", "Nguyen", 2021, 3.1, "Computer Science");
+
+        studentB.incrementExpectedGraduationYear();
     }
 }
