@@ -9,6 +9,9 @@
 - Many-to-many
 - One-to-one
 
+- A transactions is a collection of steps that must all be completed in order for a change to be made to the database.
+- Unique values are useful because they never appear twice. If a value appears more than once in a given column, it's not unique in that column.
+Relation is a set of attributes (columns) that describe information about specific intances (rows) of an entity.
 #### SQL - Structured Query Language
 - Relational Databases Management System (RDBMS) Tools:
     - Support American National Standards Institute (ANSI) SQL
@@ -26,7 +29,7 @@
 SELECT FirstName, LastName FROM Customers
 WHERE LastName = 'Augustine';
 ~~~~
-`"Show me the first name and last name for every record in the Customers table, please."`
+`"Show me the first name and last name for every record in the Customers table with lastname, please."`
 
 ~~~~sql
 SELECT FirstName, LastName FROM Customers
@@ -34,3 +37,4 @@ WHERE Birthday = '1992-08-12';
 ~~~~
 `"Show me the first name and last name for every record in the Customers table with a specific birthday, please."`
 
+- CRUD: Create-Read-Update-Delete
